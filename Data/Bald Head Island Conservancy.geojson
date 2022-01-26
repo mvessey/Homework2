@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bald Head Island Conservancy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -77.966371535270085, 33.846270407910851 ], [ -77.96638763661916, 33.846283288990115 ], [ -77.965949679924222, 33.84664395920948 ], [ -77.965582569165221, 33.846389557894035 ], [ -77.965994763701644, 33.846009566055777 ], [ -77.966371535270085, 33.846270407910851 ] ] ] ] } }
+]
+}
