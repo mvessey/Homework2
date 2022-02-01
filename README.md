@@ -1,3 +1,3 @@
-# Homework 2
+# GEOG 270
 
 Learning how to use github
